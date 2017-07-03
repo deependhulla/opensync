@@ -10,9 +10,10 @@ OpenSync is a Open Source CalDAV/CardDAV (Contacts and Calendars) Sync for Andro
 
 Its licensed under the [GPLv3 License](LICENSE). same as davdroid.
 
-Its mine attempt to make a Android App for CalDAV/CardDAV for NextCloud based on OpenSource.
-ITs still Beta from my side as its some basic changes to orginal code of DavDroid.
+Its mine personal attempt to make a Android App for CalDAV/CardDAV for NextCloud (Server which I use), again a OpenSource Software.
+Its still Beta from my side as its some basic changes to orginal code of DavDroid.
 Would try to find time to add more into this app.
+This is noway to replace orginal DavDroid app or compete with them. 
 
 
 **If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
