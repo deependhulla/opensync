@@ -1,9 +1,4 @@
 
-
-
-OpenSync 
-
-
 OpenSync is a Open Source CalDAV/CardDAV (Contacts and Calendars) Sync for Android. it has been tested with Nextcloud Server. its integrates natively in Android calendar/contact apps. its a fork from opensource project DavDroid https://davdroid.bitfire.at/source/.
 
 Forked from DavDroid Version 1.5.0.3-ose
