@@ -15,10 +15,11 @@ ITs still Beta from my side as its some basic changes to orginal code of DavDroi
 Would try to find time to add more into this app.
 
 
-**If you want to support DAVdroid, please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
+**
+If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
 or [purchasing it](https://davdroid.bitfire.at/download/).**
 
-Parts of DAVdroid have been outsourced into these libraries:
+Parts of OpenSync have been outsourced into these libraries (based on orginal davdroid):
 
 * [cert4android](https://gitlab.com/bitfireAT/cert4android) – custom certificate management
 * [dav4android](https://gitlab.com/bitfireAT/dav4android) – WebDAV/CalDav/CardDAV framework
@@ -29,7 +30,7 @@ Parts of DAVdroid have been outsourced into these libraries:
 USED THIRD-PARTY LIBRARIES
 ==========================
 
-Those libraries are used by DAVdroid (alphabetically):
+Extra libraries are used  (based on orginal davdroid) :
 
 * [dnsjava](http://www.xbill.org/dnsjava/) – [BSD License](http://www.xbill.org/dnsjava/dnsjava-current/LICENSE)
 * [ez-vcard](https://code.google.com/p/ez-vcard/) – [New BSD License](http://opensource.org/licenses/BSD-3-Clause)
