@@ -15,8 +15,7 @@ ITs still Beta from my side as its some basic changes to orginal code of DavDroi
 Would try to find time to add more into this app.
 
 
-**
-If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
+**If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
 or [purchasing it](https://davdroid.bitfire.at/download/).**
 
 Parts of OpenSync have been outsourced into these libraries (based on orginal davdroid):
