@@ -13,8 +13,8 @@ Would try to find time to add more into this app.
 This is noway to replace orginal DavDroid app or compete with them. 
 
 
-**If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid](https://davdroid.bitfire.at/donate/)
-or [purchasing it](https://davdroid.bitfire.at/download/).**
+**If you love this app, I would recommed you to support DAVdroid (the orginal app), please consider [donating to DAVdroid now DAVx5](https://www.davx5.com/donate)
+or [purchasing it](https://play.google.com/store/apps/details?id=at.bitfire.davdroid&hl=en).**
 
 Parts of OpenSync have been outsourced into these libraries (based on orginal davdroid):
 
